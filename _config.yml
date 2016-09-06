@@ -10,8 +10,8 @@ title: Zach Herring Product Designer & Front End Developer
 email: z.herring@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
      The portfolio of Zach Herring.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.zachherring.com/gh-and-jekyll-test/" # the base hostname & protocol for your site
+baseurl: "/gh-and-jekyll-test" # the subpath of your site, e.g. /blog
+url: "http://www.zachherring.com/" # the base hostname & protocol for your site
 twitter_username: zherring
 github_username:  zherring
 
